@@ -1,0 +1,776 @@
+
+
+Crewmate time to travel : 
+
+ From the room  Reactor
+
+
+From  Reactor  to  Lower E  - >  4.48 ['Reactor', 'Lower E']
+From  Reactor  to  Upper E  - >  4.33 ['Reactor', 'Upper E']
+From  Reactor  to  Security  - >  4.52 ['Reactor', 'Security']
+From  Reactor  to  Electrical  - >  9.71 ['Reactor', 'Lower E', 'Electrical']
+From  Reactor  to  Medbay  - >  9.95 ['Reactor', 'Upper E', 'Medbay']
+From  Reactor  to  Storage  - >  13.33 ['Reactor', 'Lower E', 'Storage']
+From  Reactor  to  NoName South  - >  17.33 ['Reactor', 'Lower E', 'Storage', 'NoName South']
+From  Reactor  to  NoName Middle  - >  18.32 ['Reactor', 'Lower E', 'Storage', 'NoName Middle']
+From  Reactor  to  Cafeteria  - >  14.19 ['Reactor', 'Upper E', 'Cafeteria']
+From  Reactor  to  Shield  - >  20.99 ['Reactor', 'Lower E', 'Storage', 'NoName South', 'Shield']
+From  Reactor  to  O2  - >  27.919999999999998 ['Reactor', 'Upper E', 'Cafeteria', 'Weapons', 'Hall Est', 'O2']
+From  Reactor  to  Hall Est  - >  24.759999999999998 ['Reactor', 'Upper E', 'Cafeteria', 'Weapons', 'Hall Est']
+From  Reactor  to  Navigations  - >  27.47 ['Reactor', 'Upper E', 'Cafeteria', 'Weapons', 'Hall Est', 'Navigations']
+From  Reactor  to  Weapons  - >  19.88 ['Reactor', 'Upper E', 'Cafeteria', 'Weapons']
+
+ From the room  Lower E
+
+
+From  Lower E  to  Upper E  - >  7.56 ['Upper E']
+From  Lower E  to  Security  - >  4.28 ['Security']
+From  Lower E  to  Electrical  - >  5.23 ['Electrical']
+From  Lower E  to  Medbay  - >  13.18 ['Upper E', 'Medbay']
+From  Lower E  to  Storage  - >  8.85 ['Storage']
+From  Lower E  to  NoName South  - >  12.85 ['Storage', 'NoName South']
+From  Lower E  to  NoName Middle  - >  13.84 ['Storage', 'NoName Middle']
+From  Lower E  to  Cafeteria  - >  17.07 ['Storage', 'Cafeteria']
+From  Lower E  to  Shield  - >  16.509999999999998 ['Storage', 'NoName South', 'Shield']
+From  Lower E  to  O2  - >  24.369999999999997 ['Storage', 'NoName South', 'Shield', 'Hall Est', 'O2']
+From  Lower E  to  Hall Est  - >  21.209999999999997 ['Storage', 'NoName South', 'Shield', 'Hall Est']
+From  Lower E  to  Navigations  - >  23.919999999999998 ['Storage', 'NoName South', 'Shield', 'Hall Est', 'Navigations']
+From  Lower E  to  Weapons  - >  22.76 ['Storage', 'Cafeteria', 'Weapons']
+
+ From the room  Upper E
+
+
+From  Upper E  to  Lower E  - >  7.56 ['Lower E']
+From  Upper E  to  Security  - >  4.19 ['Security']
+From  Upper E  to  Electrical  - >  12.79 ['Lower E', 'Electrical']
+From  Upper E  to  Medbay  - >  5.62 ['Medbay']
+From  Upper E  to  Storage  - >  16.41 ['Lower E', 'Storage']
+From  Upper E  to  NoName South  - >  20.41 ['Lower E', 'Storage', 'NoName South']
+From  Upper E  to  NoName Middle  - >  15.8 ['Cafeteria', 'NoName Middle']
+From  Upper E  to  Cafeteria  - >  9.86 ['Cafeteria']
+From  Upper E  to  Shield  - >  24.07 ['Lower E', 'Storage', 'NoName South', 'Shield']
+From  Upper E  to  O2  - >  23.59 ['Cafeteria', 'Weapons', 'Hall Est', 'O2']
+From  Upper E  to  Hall Est  - >  20.43 ['Cafeteria', 'Weapons', 'Hall Est']
+From  Upper E  to  Navigations  - >  23.14 ['Cafeteria', 'Weapons', 'Hall Est', 'Navigations']
+From  Upper E  to  Weapons  - >  15.55 ['Cafeteria', 'Weapons']
+
+ From the room  Security
+
+
+From  Security  to  Lower E  - >  4.28 ['Lower E']
+From  Security  to  Upper E  - >  4.19 ['Upper E']
+From  Security  to  Electrical  - >  9.510000000000002 ['Lower E', 'Electrical']
+From  Security  to  Medbay  - >  9.81 ['Upper E', 'Medbay']
+From  Security  to  Storage  - >  13.129999999999999 ['Lower E', 'Storage']
+From  Security  to  NoName South  - >  17.13 ['Lower E', 'Storage', 'NoName South']
+From  Security  to  NoName Middle  - >  18.119999999999997 ['Lower E', 'Storage', 'NoName Middle']
+From  Security  to  Cafeteria  - >  14.05 ['Upper E', 'Cafeteria']
+From  Security  to  Shield  - >  20.79 ['Lower E', 'Storage', 'NoName South', 'Shield']
+From  Security  to  O2  - >  27.78 ['Upper E', 'Cafeteria', 'Weapons', 'Hall Est', 'O2']
+From  Security  to  Hall Est  - >  24.62 ['Upper E', 'Cafeteria', 'Weapons', 'Hall Est']
+From  Security  to  Navigations  - >  27.330000000000002 ['Upper E', 'Cafeteria', 'Weapons', 'Hall Est', 'Navigations']
+From  Security  to  Weapons  - >  19.740000000000002 ['Upper E', 'Cafeteria', 'Weapons']
+
+ From the room  Electrical
+
+
+From  Electrical  to  Lower E  - >  5.23 ['Lower E']
+From  Electrical  to  Upper E  - >  12.79 ['Lower E', 'Upper E']
+From  Electrical  to  Security  - >  9.510000000000002 ['Lower E', 'Security']
+From  Electrical  to  Medbay  - >  17.88 ['Storage', 'Cafeteria', 'Medbay']
+From  Electrical  to  Storage  - >  4.03 ['Storage']
+From  Electrical  to  NoName South  - >  8.030000000000001 ['Storage', 'NoName South']
+From  Electrical  to  NoName Middle  - >  9.02 ['Storage', 'NoName Middle']
+From  Electrical  to  Cafeteria  - >  12.25 ['Storage', 'Cafeteria']
+From  Electrical  to  Shield  - >  11.690000000000001 ['Storage', 'NoName South', 'Shield']
+From  Electrical  to  O2  - >  19.55 ['Storage', 'NoName South', 'Shield', 'Hall Est', 'O2']
+From  Electrical  to  Hall Est  - >  16.39 ['Storage', 'NoName South', 'Shield', 'Hall Est']
+From  Electrical  to  Navigations  - >  19.1 ['Storage', 'NoName South', 'Shield', 'Hall Est', 'Navigations']
+From  Electrical  to  Weapons  - >  17.94 ['Storage', 'Cafeteria', 'Weapons']
+
+ From the room  Medbay
+
+
+From  Medbay  to  Lower E  - >  13.18 ['Upper E', 'Lower E']
+From  Medbay  to  Upper E  - >  5.62 ['Upper E']
+From  Medbay  to  Security  - >  9.81 ['Upper E', 'Security']
+From  Medbay  to  Electrical  - >  17.880000000000003 ['Cafeteria', 'Storage', 'Electrical']
+From  Medbay  to  Storage  - >  13.850000000000001 ['Cafeteria', 'Storage']
+From  Medbay  to  NoName South  - >  17.85 ['Cafeteria', 'Storage', 'NoName South']
+From  Medbay  to  NoName Middle  - >  11.57 ['Cafeteria', 'NoName Middle']
+From  Medbay  to  Cafeteria  - >  5.63 ['Cafeteria']
+From  Medbay  to  Shield  - >  20.9 ['Cafeteria', 'Weapons', 'Hall Est', 'Shield']
+From  Medbay  to  O2  - >  19.36 ['Cafeteria', 'Weapons', 'Hall Est', 'O2']
+From  Medbay  to  Hall Est  - >  16.2 ['Cafeteria', 'Weapons', 'Hall Est']
+From  Medbay  to  Navigations  - >  18.91 ['Cafeteria', 'Weapons', 'Hall Est', 'Navigations']
+From  Medbay  to  Weapons  - >  11.32 ['Cafeteria', 'Weapons']
+
+ From the room  Storage
+
+
+From  Storage  to  Lower E  - >  8.85 ['Lower E']
+From  Storage  to  Upper E  - >  16.41 ['Lower E', 'Upper E']
+From  Storage  to  Security  - >  13.129999999999999 ['Lower E', 'Security']
+From  Storage  to  Electrical  - >  4.03 ['Electrical']
+From  Storage  to  Medbay  - >  13.850000000000001 ['Cafeteria', 'Medbay']
+From  Storage  to  NoName South  - >  4.0 ['NoName South']
+From  Storage  to  NoName Middle  - >  4.99 ['NoName Middle']
+From  Storage  to  Cafeteria  - >  8.22 ['Cafeteria']
+From  Storage  to  Shield  - >  7.66 ['NoName South', 'Shield']
+From  Storage  to  O2  - >  15.52 ['NoName South', 'Shield', 'Hall Est', 'O2']
+From  Storage  to  Hall Est  - >  12.36 ['NoName South', 'Shield', 'Hall Est']
+From  Storage  to  Navigations  - >  15.07 ['NoName South', 'Shield', 'Hall Est', 'Navigations']
+From  Storage  to  Weapons  - >  13.91 ['Cafeteria', 'Weapons']
+
+ From the room  NoName South
+
+
+From  NoName South  to  Lower E  - >  12.85 ['Storage', 'Lower E']
+From  NoName South  to  Upper E  - >  20.41 ['Storage', 'Lower E', 'Upper E']
+From  NoName South  to  Security  - >  17.13 ['Storage', 'Lower E', 'Security']
+From  NoName South  to  Electrical  - >  8.030000000000001 ['Storage', 'Electrical']
+From  NoName South  to  Medbay  - >  17.85 ['Storage', 'Cafeteria', 'Medbay']
+From  NoName South  to  Storage  - >  4.0 ['Storage']
+From  NoName South  to  NoName Middle  - >  8.99 ['Storage', 'NoName Middle']
+From  NoName South  to  Cafeteria  - >  12.22 ['Storage', 'Cafeteria']
+From  NoName South  to  Shield  - >  3.66 ['Shield']
+From  NoName South  to  O2  - >  11.52 ['Shield', 'Hall Est', 'O2']
+From  NoName South  to  Hall Est  - >  8.36 ['Shield', 'Hall Est']
+From  NoName South  to  Navigations  - >  11.07 ['Shield', 'Hall Est', 'Navigations']
+From  NoName South  to  Weapons  - >  13.239999999999998 ['Shield', 'Hall Est', 'Weapons']
+
+ From the room  NoName Middle
+
+
+From  NoName Middle  to  Lower E  - >  13.84 ['Storage', 'Lower E']
+From  NoName Middle  to  Upper E  - >  15.8 ['Cafeteria', 'Upper E']
+From  NoName Middle  to  Security  - >  18.12 ['Storage', 'Lower E', 'Security']
+From  NoName Middle  to  Electrical  - >  9.02 ['Storage', 'Electrical']
+From  NoName Middle  to  Medbay  - >  11.57 ['Cafeteria', 'Medbay']
+From  NoName Middle  to  Storage  - >  4.99 ['Storage']
+From  NoName Middle  to  NoName South  - >  8.99 ['Storage', 'NoName South']
+From  NoName Middle  to  Cafeteria  - >  5.94 ['Cafeteria']
+From  NoName Middle  to  Shield  - >  12.65 ['Storage', 'NoName South', 'Shield']
+From  NoName Middle  to  O2  - >  19.67 ['Cafeteria', 'Weapons', 'Hall Est', 'O2']
+From  NoName Middle  to  Hall Est  - >  16.51 ['Cafeteria', 'Weapons', 'Hall Est']
+From  NoName Middle  to  Navigations  - >  19.220000000000002 ['Cafeteria', 'Weapons', 'Hall Est', 'Navigations']
+From  NoName Middle  to  Weapons  - >  11.63 ['Cafeteria', 'Weapons']
+
+ From the room  Cafeteria
+
+
+From  Cafeteria  to  Lower E  - >  17.07 ['Storage', 'Lower E']
+From  Cafeteria  to  Upper E  - >  9.86 ['Upper E']
+From  Cafeteria  to  Security  - >  14.05 ['Upper E', 'Security']
+From  Cafeteria  to  Electrical  - >  12.25 ['Storage', 'Electrical']
+From  Cafeteria  to  Medbay  - >  5.63 ['Medbay']
+From  Cafeteria  to  Storage  - >  8.22 ['Storage']
+From  Cafeteria  to  NoName South  - >  12.22 ['Storage', 'NoName South']
+From  Cafeteria  to  NoName Middle  - >  5.94 ['NoName Middle']
+From  Cafeteria  to  Shield  - >  15.27 ['Weapons', 'Hall Est', 'Shield']
+From  Cafeteria  to  O2  - >  13.73 ['Weapons', 'Hall Est', 'O2']
+From  Cafeteria  to  Hall Est  - >  10.57 ['Weapons', 'Hall Est']
+From  Cafeteria  to  Navigations  - >  13.280000000000001 ['Weapons', 'Hall Est', 'Navigations']
+From  Cafeteria  to  Weapons  - >  5.69 ['Weapons']
+
+ From the room  Shield
+
+
+From  Shield  to  Lower E  - >  16.509999999999998 ['NoName South', 'Storage', 'Lower E']
+From  Shield  to  Upper E  - >  24.069999999999997 ['NoName South', 'Storage', 'Lower E', 'Upper E']
+From  Shield  to  Security  - >  20.79 ['NoName South', 'Storage', 'Lower E', 'Security']
+From  Shield  to  Electrical  - >  11.690000000000001 ['NoName South', 'Storage', 'Electrical']
+From  Shield  to  Medbay  - >  20.9 ['Hall Est', 'Weapons', 'Cafeteria', 'Medbay']
+From  Shield  to  Storage  - >  7.66 ['NoName South', 'Storage']
+From  Shield  to  NoName South  - >  3.66 ['NoName South']
+From  Shield  to  NoName Middle  - >  12.65 ['NoName South', 'Storage', 'NoName Middle']
+From  Shield  to  Cafeteria  - >  15.27 ['Hall Est', 'Weapons', 'Cafeteria']
+From  Shield  to  O2  - >  7.86 ['Hall Est', 'O2']
+From  Shield  to  Hall Est  - >  4.7 ['Hall Est']
+From  Shield  to  Navigations  - >  7.41 ['Hall Est', 'Navigations']
+From  Shield  to  Weapons  - >  9.58 ['Hall Est', 'Weapons']
+
+ From the room  O2
+
+
+From  O2  to  Lower E  - >  24.369999999999997 ['Hall Est', 'Shield', 'NoName South', 'Storage', 'Lower E']
+From  O2  to  Upper E  - >  23.59 ['Hall Est', 'Weapons', 'Cafeteria', 'Upper E']
+From  O2  to  Security  - >  27.78 ['Hall Est', 'Weapons', 'Cafeteria', 'Upper E', 'Security']
+From  O2  to  Electrical  - >  19.55 ['Hall Est', 'Shield', 'NoName South', 'Storage', 'Electrical']
+From  O2  to  Medbay  - >  19.36 ['Hall Est', 'Weapons', 'Cafeteria', 'Medbay']
+From  O2  to  Storage  - >  15.52 ['Hall Est', 'Shield', 'NoName South', 'Storage']
+From  O2  to  NoName South  - >  11.52 ['Hall Est', 'Shield', 'NoName South']
+From  O2  to  NoName Middle  - >  19.67 ['Hall Est', 'Weapons', 'Cafeteria', 'NoName Middle']
+From  O2  to  Cafeteria  - >  13.73 ['Hall Est', 'Weapons', 'Cafeteria']
+From  O2  to  Shield  - >  7.86 ['Hall Est', 'Shield']
+From  O2  to  Hall Est  - >  3.16 ['Hall Est']
+From  O2  to  Navigations  - >  5.87 ['Hall Est', 'Navigations']
+From  O2  to  Weapons  - >  8.04 ['Hall Est', 'Weapons']
+
+ From the room  Hall Est
+
+
+From  Hall Est  to  Lower E  - >  21.21 ['Shield', 'NoName South', 'Storage', 'Lower E']
+From  Hall Est  to  Upper E  - >  20.43 ['Weapons', 'Cafeteria', 'Upper E']
+From  Hall Est  to  Security  - >  24.62 ['Weapons', 'Cafeteria', 'Upper E', 'Security']
+From  Hall Est  to  Electrical  - >  16.39 ['Shield', 'NoName South', 'Storage', 'Electrical']
+From  Hall Est  to  Medbay  - >  16.2 ['Weapons', 'Cafeteria', 'Medbay']
+From  Hall Est  to  Storage  - >  12.36 ['Shield', 'NoName South', 'Storage']
+From  Hall Est  to  NoName South  - >  8.36 ['Shield', 'NoName South']
+From  Hall Est  to  NoName Middle  - >  16.51 ['Weapons', 'Cafeteria', 'NoName Middle']
+From  Hall Est  to  Cafeteria  - >  10.57 ['Weapons', 'Cafeteria']
+From  Hall Est  to  Shield  - >  4.7 ['Shield']
+From  Hall Est  to  O2  - >  3.16 ['O2']
+From  Hall Est  to  Navigations  - >  2.71 ['Navigations']
+From  Hall Est  to  Weapons  - >  4.88 ['Weapons']
+
+ From the room  Navigations
+
+
+From  Navigations  to  Lower E  - >  23.92 ['Hall Est', 'Shield', 'NoName South', 'Storage', 'Lower E']
+From  Navigations  to  Upper E  - >  23.14 ['Hall Est', 'Weapons', 'Cafeteria', 'Upper E']
+From  Navigations  to  Security  - >  27.330000000000002 ['Hall Est', 'Weapons', 'Cafeteria', 'Upper E', 'Security']
+From  Navigations  to  Electrical  - >  19.1 ['Hall Est', 'Shield', 'NoName South', 'Storage', 'Electrical']
+From  Navigations  to  Medbay  - >  18.91 ['Hall Est', 'Weapons', 'Cafeteria', 'Medbay']
+From  Navigations  to  Storage  - >  15.07 ['Hall Est', 'Shield', 'NoName South', 'Storage']
+From  Navigations  to  NoName South  - >  11.07 ['Hall Est', 'Shield', 'NoName South']
+From  Navigations  to  NoName Middle  - >  19.220000000000002 ['Hall Est', 'Weapons', 'Cafeteria', 'NoName Middle']
+From  Navigations  to  Cafeteria  - >  13.280000000000001 ['Hall Est', 'Weapons', 'Cafeteria']
+From  Navigations  to  Shield  - >  7.41 ['Hall Est', 'Shield']
+From  Navigations  to  O2  - >  5.87 ['Hall Est', 'O2']
+From  Navigations  to  Hall Est  - >  2.71 ['Hall Est']
+From  Navigations  to  Weapons  - >  7.59 ['Hall Est', 'Weapons']
+
+ From the room  Weapons
+
+
+From  Weapons  to  Lower E  - >  22.759999999999998 ['Cafeteria', 'Storage', 'Lower E']
+From  Weapons  to  Upper E  - >  15.55 ['Cafeteria', 'Upper E']
+From  Weapons  to  Security  - >  19.740000000000002 ['Cafeteria', 'Upper E', 'Security']
+From  Weapons  to  Electrical  - >  17.94 ['Cafeteria', 'Storage', 'Electrical']
+From  Weapons  to  Medbay  - >  11.32 ['Cafeteria', 'Medbay']
+From  Weapons  to  Storage  - >  13.91 ['Cafeteria', 'Storage']
+From  Weapons  to  NoName South  - >  13.24 ['Hall Est', 'Shield', 'NoName South']
+From  Weapons  to  NoName Middle  - >  11.63 ['Cafeteria', 'NoName Middle']
+From  Weapons  to  Cafeteria  - >  5.69 ['Cafeteria']
+From  Weapons  to  Shield  - >  9.58 ['Hall Est', 'Shield']
+From  Weapons  to  O2  - >  8.04 ['Hall Est', 'O2']
+From  Weapons  to  Hall Est  - >  4.88 ['Hall Est']
+From  Weapons  to  Navigations  - >  7.59 ['Hall Est', 'Navigations']
+
+
+Impostor time to travel : 
+
+ From the room  Reactor
+
+
+From  Reactor  to  Lower E  - >  0.01 ['Reactor', 'Lower E']
+From  Reactor  to  Upper E  - >  0.01 ['Reactor', 'Upper E']
+From  Reactor  to  Security  - >  4.2 ['Reactor', 'Upper E', 'Security']
+From  Reactor  to  Electrical  - >  4.21 ['Reactor', 'Upper E', 'Security', 'Electrical']
+From  Reactor  to  Medbay  - >  4.21 ['Reactor', 'Upper E', 'Security', 'Medbay']
+From  Reactor  to  Storage  - >  8.24 ['Reactor', 'Upper E', 'Security', 'Electrical', 'Storage']
+From  Reactor  to  NoName South  - >  12.24 ['Reactor', 'Upper E', 'Security', 'Electrical', 'Storage', 'NoName South']
+From  Reactor  to  NoName Middle  - >  9.85 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria', 'NoName Middle']
+From  Reactor  to  Cafeteria  - >  9.84 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria']
+From  Reactor  to  Shield  - >  12.569999999999999 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria', 'Hall Est', 'Navigations', 'Shield']
+From  Reactor  to  O2  - >  13.01 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria', 'Hall Est', 'O2']
+From  Reactor  to  Hall Est  - >  9.85 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria', 'Hall Est']
+From  Reactor  to  Navigations  - >  12.559999999999999 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria', 'Hall Est', 'Navigations']
+From  Reactor  to  Weapons  - >  12.569999999999999 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria', 'Hall Est', 'Navigations', 'Weapons']
+
+ From the room  Lower E
+
+
+From  Lower E  to  Upper E  - >  0.02 ['Reactor', 'Upper E']
+From  Lower E  to  Security  - >  4.21 ['Reactor', 'Upper E', 'Security']
+From  Lower E  to  Electrical  - >  4.22 ['Reactor', 'Upper E', 'Security', 'Electrical']
+From  Lower E  to  Medbay  - >  4.22 ['Reactor', 'Upper E', 'Security', 'Medbay']
+From  Lower E  to  Storage  - >  8.25 ['Reactor', 'Upper E', 'Security', 'Electrical', 'Storage']
+From  Lower E  to  NoName South  - >  12.25 ['Reactor', 'Upper E', 'Security', 'Electrical', 'Storage', 'NoName South']
+From  Lower E  to  NoName Middle  - >  9.86 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria', 'NoName Middle']
+From  Lower E  to  Cafeteria  - >  9.85 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria']
+From  Lower E  to  Shield  - >  12.58 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria', 'Hall Est', 'Navigations', 'Shield']
+From  Lower E  to  O2  - >  13.02 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria', 'Hall Est', 'O2']
+From  Lower E  to  Hall Est  - >  9.86 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria', 'Hall Est']
+From  Lower E  to  Navigations  - >  12.57 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria', 'Hall Est', 'Navigations']
+From  Lower E  to  Weapons  - >  12.58 ['Reactor', 'Upper E', 'Security', 'Medbay', 'Cafeteria', 'Hall Est', 'Navigations', 'Weapons']
+
+ From the room  Upper E
+
+
+From  Upper E  to  Lower E  - >  0.02 ['Reactor', 'Lower E']
+From  Upper E  to  Security  - >  4.19 ['Security']
+From  Upper E  to  Electrical  - >  4.2 ['Security', 'Electrical']
+From  Upper E  to  Medbay  - >  4.2 ['Security', 'Medbay']
+From  Upper E  to  Storage  - >  8.23 ['Security', 'Electrical', 'Storage']
+From  Upper E  to  NoName South  - >  12.23 ['Security', 'Electrical', 'Storage', 'NoName South']
+From  Upper E  to  NoName Middle  - >  9.84 ['Security', 'Medbay', 'Cafeteria', 'NoName Middle']
+From  Upper E  to  Cafeteria  - >  9.83 ['Security', 'Medbay', 'Cafeteria']
+From  Upper E  to  Shield  - >  12.56 ['Security', 'Medbay', 'Cafeteria', 'Hall Est', 'Navigations', 'Shield']
+From  Upper E  to  O2  - >  13.0 ['Security', 'Medbay', 'Cafeteria', 'Hall Est', 'O2']
+From  Upper E  to  Hall Est  - >  9.84 ['Security', 'Medbay', 'Cafeteria', 'Hall Est']
+From  Upper E  to  Navigations  - >  12.55 ['Security', 'Medbay', 'Cafeteria', 'Hall Est', 'Navigations']
+From  Upper E  to  Weapons  - >  12.56 ['Security', 'Medbay', 'Cafeteria', 'Hall Est', 'Navigations', 'Weapons']
+
+ From the room  Security
+
+
+From  Security  to  Lower E  - >  4.21 ['Upper E', 'Reactor', 'Lower E']
+From  Security  to  Upper E  - >  4.19 ['Upper E']
+From  Security  to  Electrical  - >  0.01 ['Electrical']
+From  Security  to  Medbay  - >  0.01 ['Medbay']
+From  Security  to  Storage  - >  4.04 ['Electrical', 'Storage']
+From  Security  to  NoName South  - >  8.04 ['Electrical', 'Storage', 'NoName South']
+From  Security  to  NoName Middle  - >  5.6499999999999995 ['Medbay', 'Cafeteria', 'NoName Middle']
+From  Security  to  Cafeteria  - >  5.64 ['Medbay', 'Cafeteria']
+From  Security  to  Shield  - >  8.37 ['Medbay', 'Cafeteria', 'Hall Est', 'Navigations', 'Shield']
+From  Security  to  O2  - >  8.809999999999999 ['Medbay', 'Cafeteria', 'Hall Est', 'O2']
+From  Security  to  Hall Est  - >  5.6499999999999995 ['Medbay', 'Cafeteria', 'Hall Est']
+From  Security  to  Navigations  - >  8.36 ['Medbay', 'Cafeteria', 'Hall Est', 'Navigations']
+From  Security  to  Weapons  - >  8.37 ['Medbay', 'Cafeteria', 'Hall Est', 'Navigations', 'Weapons']
+
+ From the room  Electrical
+
+
+From  Electrical  to  Lower E  - >  4.22 ['Security', 'Upper E', 'Reactor', 'Lower E']
+From  Electrical  to  Upper E  - >  4.2 ['Security', 'Upper E']
+From  Electrical  to  Security  - >  0.01 ['Security']
+From  Electrical  to  Medbay  - >  0.01 ['Medbay']
+From  Electrical  to  Storage  - >  4.03 ['Storage']
+From  Electrical  to  NoName South  - >  8.030000000000001 ['Storage', 'NoName South']
+From  Electrical  to  NoName Middle  - >  5.6499999999999995 ['Medbay', 'Cafeteria', 'NoName Middle']
+From  Electrical  to  Cafeteria  - >  5.64 ['Medbay', 'Cafeteria']
+From  Electrical  to  Shield  - >  8.37 ['Medbay', 'Cafeteria', 'Hall Est', 'Navigations', 'Shield']
+From  Electrical  to  O2  - >  8.809999999999999 ['Medbay', 'Cafeteria', 'Hall Est', 'O2']
+From  Electrical  to  Hall Est  - >  5.6499999999999995 ['Medbay', 'Cafeteria', 'Hall Est']
+From  Electrical  to  Navigations  - >  8.36 ['Medbay', 'Cafeteria', 'Hall Est', 'Navigations']
+From  Electrical  to  Weapons  - >  8.37 ['Medbay', 'Cafeteria', 'Hall Est', 'Navigations', 'Weapons']
+
+ From the room  Medbay
+
+
+From  Medbay  to  Lower E  - >  4.22 ['Security', 'Upper E', 'Reactor', 'Lower E']
+From  Medbay  to  Upper E  - >  4.2 ['Security', 'Upper E']
+From  Medbay  to  Security  - >  0.01 ['Security']
+From  Medbay  to  Electrical  - >  0.01 ['Electrical']
+From  Medbay  to  Storage  - >  4.04 ['Electrical', 'Storage']
+From  Medbay  to  NoName South  - >  8.04 ['Electrical', 'Storage', 'NoName South']
+From  Medbay  to  NoName Middle  - >  5.64 ['Cafeteria', 'NoName Middle']
+From  Medbay  to  Cafeteria  - >  5.63 ['Cafeteria']
+From  Medbay  to  Shield  - >  8.36 ['Cafeteria', 'Hall Est', 'Navigations', 'Shield']
+From  Medbay  to  O2  - >  8.8 ['Cafeteria', 'Hall Est', 'O2']
+From  Medbay  to  Hall Est  - >  5.64 ['Cafeteria', 'Hall Est']
+From  Medbay  to  Navigations  - >  8.35 ['Cafeteria', 'Hall Est', 'Navigations']
+From  Medbay  to  Weapons  - >  8.36 ['Cafeteria', 'Hall Est', 'Navigations', 'Weapons']
+
+ From the room  Storage
+
+
+From  Storage  to  Lower E  - >  8.25 ['Electrical', 'Security', 'Upper E', 'Reactor', 'Lower E']
+From  Storage  to  Upper E  - >  8.23 ['Electrical', 'Security', 'Upper E']
+From  Storage  to  Security  - >  4.04 ['Electrical', 'Security']
+From  Storage  to  Electrical  - >  4.03 ['Electrical']
+From  Storage  to  Medbay  - >  4.04 ['Electrical', 'Medbay']
+From  Storage  to  NoName South  - >  4.0 ['NoName South']
+From  Storage  to  NoName Middle  - >  4.99 ['NoName Middle']
+From  Storage  to  Cafeteria  - >  5.0 ['NoName Middle', 'Cafeteria']
+From  Storage  to  Shield  - >  7.66 ['NoName South', 'Shield']
+From  Storage  to  O2  - >  8.16 ['NoName Middle', 'Hall Est', 'O2']
+From  Storage  to  Hall Est  - >  5.0 ['NoName Middle', 'Hall Est']
+From  Storage  to  Navigations  - >  7.67 ['NoName South', 'Shield', 'Navigations']
+From  Storage  to  Weapons  - >  7.68 ['NoName South', 'Shield', 'Navigations', 'Weapons']
+
+ From the room  NoName South
+
+
+From  NoName South  to  Lower E  - >  12.25 ['Storage', 'Electrical', 'Security', 'Upper E', 'Reactor', 'Lower E']
+From  NoName South  to  Upper E  - >  12.23 ['Storage', 'Electrical', 'Security', 'Upper E']
+From  NoName South  to  Security  - >  8.040000000000001 ['Storage', 'Electrical', 'Security']
+From  NoName South  to  Electrical  - >  8.030000000000001 ['Storage', 'Electrical']
+From  NoName South  to  Medbay  - >  8.040000000000001 ['Storage', 'Electrical', 'Medbay']
+From  NoName South  to  Storage  - >  4.0 ['Storage']
+From  NoName South  to  NoName Middle  - >  6.39 ['Shield', 'Navigations', 'Hall Est', 'NoName Middle']
+From  NoName South  to  Cafeteria  - >  6.39 ['Shield', 'Navigations', 'Hall Est', 'Cafeteria']
+From  NoName South  to  Shield  - >  3.66 ['Shield']
+From  NoName South  to  O2  - >  9.54 ['Shield', 'Navigations', 'Hall Est', 'O2']
+From  NoName South  to  Hall Est  - >  6.38 ['Shield', 'Navigations', 'Hall Est']
+From  NoName South  to  Navigations  - >  3.67 ['Shield', 'Navigations']
+From  NoName South  to  Weapons  - >  3.6799999999999997 ['Shield', 'Navigations', 'Weapons']
+
+ From the room  NoName Middle
+
+
+From  NoName Middle  to  Lower E  - >  9.86 ['Cafeteria', 'Medbay', 'Security', 'Upper E', 'Reactor', 'Lower E']
+From  NoName Middle  to  Upper E  - >  9.84 ['Cafeteria', 'Medbay', 'Security', 'Upper E']
+From  NoName Middle  to  Security  - >  5.6499999999999995 ['Cafeteria', 'Medbay', 'Security']
+From  NoName Middle  to  Electrical  - >  5.6499999999999995 ['Cafeteria', 'Medbay', 'Electrical']
+From  NoName Middle  to  Medbay  - >  5.64 ['Cafeteria', 'Medbay']
+From  NoName Middle  to  Storage  - >  4.99 ['Storage']
+From  NoName Middle  to  NoName South  - >  6.39 ['Hall Est', 'Navigations', 'Shield', 'NoName South']
+From  NoName Middle  to  Cafeteria  - >  0.01 ['Cafeteria']
+From  NoName Middle  to  Shield  - >  2.7299999999999995 ['Hall Est', 'Navigations', 'Shield']
+From  NoName Middle  to  O2  - >  3.17 ['Hall Est', 'O2']
+From  NoName Middle  to  Hall Est  - >  0.01 ['Hall Est']
+From  NoName Middle  to  Navigations  - >  2.7199999999999998 ['Hall Est', 'Navigations']
+From  NoName Middle  to  Weapons  - >  2.7299999999999995 ['Hall Est', 'Navigations', 'Weapons']
+
+ From the room  Cafeteria
+
+
+From  Cafeteria  to  Lower E  - >  9.85 ['Medbay', 'Security', 'Upper E', 'Reactor', 'Lower E']
+From  Cafeteria  to  Upper E  - >  9.83 ['Medbay', 'Security', 'Upper E']
+From  Cafeteria  to  Security  - >  5.64 ['Medbay', 'Security']
+From  Cafeteria  to  Electrical  - >  5.64 ['Medbay', 'Electrical']
+From  Cafeteria  to  Medbay  - >  5.63 ['Medbay']
+From  Cafeteria  to  Storage  - >  5.0 ['NoName Middle', 'Storage']
+From  Cafeteria  to  NoName South  - >  6.39 ['Hall Est', 'Navigations', 'Shield', 'NoName South']
+From  Cafeteria  to  NoName Middle  - >  0.01 ['NoName Middle']
+From  Cafeteria  to  Shield  - >  2.7299999999999995 ['Hall Est', 'Navigations', 'Shield']
+From  Cafeteria  to  O2  - >  3.17 ['Hall Est', 'O2']
+From  Cafeteria  to  Hall Est  - >  0.01 ['Hall Est']
+From  Cafeteria  to  Navigations  - >  2.7199999999999998 ['Hall Est', 'Navigations']
+From  Cafeteria  to  Weapons  - >  2.7299999999999995 ['Hall Est', 'Navigations', 'Weapons']
+
+ From the room  Shield
+
+
+From  Shield  to  Lower E  - >  12.579999999999998 ['Navigations', 'Hall Est', 'Cafeteria', 'Medbay', 'Security', 'Upper E', 'Reactor', 'Lower E']
+From  Shield  to  Upper E  - >  12.559999999999999 ['Navigations', 'Hall Est', 'Cafeteria', 'Medbay', 'Security', 'Upper E']
+From  Shield  to  Security  - >  8.37 ['Navigations', 'Hall Est', 'Cafeteria', 'Medbay', 'Security']
+From  Shield  to  Electrical  - >  8.37 ['Navigations', 'Hall Est', 'Cafeteria', 'Medbay', 'Electrical']
+From  Shield  to  Medbay  - >  8.36 ['Navigations', 'Hall Est', 'Cafeteria', 'Medbay']
+From  Shield  to  Storage  - >  7.66 ['NoName South', 'Storage']
+From  Shield  to  NoName South  - >  3.66 ['NoName South']
+From  Shield  to  NoName Middle  - >  2.7299999999999995 ['Navigations', 'Hall Est', 'NoName Middle']
+From  Shield  to  Cafeteria  - >  2.7299999999999995 ['Navigations', 'Hall Est', 'Cafeteria']
+From  Shield  to  O2  - >  5.88 ['Navigations', 'Hall Est', 'O2']
+From  Shield  to  Hall Est  - >  2.7199999999999998 ['Navigations', 'Hall Est']
+From  Shield  to  Navigations  - >  0.01 ['Navigations']
+From  Shield  to  Weapons  - >  0.02 ['Navigations', 'Weapons']
+
+ From the room  O2
+
+
+From  O2  to  Lower E  - >  13.02 ['Hall Est', 'Cafeteria', 'Medbay', 'Security', 'Upper E', 'Reactor', 'Lower E']
+From  O2  to  Upper E  - >  13.0 ['Hall Est', 'Cafeteria', 'Medbay', 'Security', 'Upper E']
+From  O2  to  Security  - >  8.81 ['Hall Est', 'Cafeteria', 'Medbay', 'Security']
+From  O2  to  Electrical  - >  8.81 ['Hall Est', 'Cafeteria', 'Medbay', 'Electrical']
+From  O2  to  Medbay  - >  8.8 ['Hall Est', 'Cafeteria', 'Medbay']
+From  O2  to  Storage  - >  8.16 ['Hall Est', 'NoName Middle', 'Storage']
+From  O2  to  NoName South  - >  9.54 ['Hall Est', 'Navigations', 'Shield', 'NoName South']
+From  O2  to  NoName Middle  - >  3.17 ['Hall Est', 'NoName Middle']
+From  O2  to  Cafeteria  - >  3.17 ['Hall Est', 'Cafeteria']
+From  O2  to  Shield  - >  5.88 ['Hall Est', 'Navigations', 'Shield']
+From  O2  to  Hall Est  - >  3.16 ['Hall Est']
+From  O2  to  Navigations  - >  5.87 ['Hall Est', 'Navigations']
+From  O2  to  Weapons  - >  5.88 ['Hall Est', 'Navigations', 'Weapons']
+
+ From the room  Hall Est
+
+
+From  Hall Est  to  Lower E  - >  9.86 ['Cafeteria', 'Medbay', 'Security', 'Upper E', 'Reactor', 'Lower E']
+From  Hall Est  to  Upper E  - >  9.84 ['Cafeteria', 'Medbay', 'Security', 'Upper E']
+From  Hall Est  to  Security  - >  5.6499999999999995 ['Cafeteria', 'Medbay', 'Security']
+From  Hall Est  to  Electrical  - >  5.6499999999999995 ['Cafeteria', 'Medbay', 'Electrical']
+From  Hall Est  to  Medbay  - >  5.64 ['Cafeteria', 'Medbay']
+From  Hall Est  to  Storage  - >  5.0 ['NoName Middle', 'Storage']
+From  Hall Est  to  NoName South  - >  6.38 ['Navigations', 'Shield', 'NoName South']
+From  Hall Est  to  NoName Middle  - >  0.01 ['NoName Middle']
+From  Hall Est  to  Cafeteria  - >  0.01 ['Cafeteria']
+From  Hall Est  to  Shield  - >  2.7199999999999998 ['Navigations', 'Shield']
+From  Hall Est  to  O2  - >  3.16 ['O2']
+From  Hall Est  to  Navigations  - >  2.71 ['Navigations']
+From  Hall Est  to  Weapons  - >  2.7199999999999998 ['Navigations', 'Weapons']
+
+ From the room  Navigations
+
+
+From  Navigations  to  Lower E  - >  12.57 ['Hall Est', 'Cafeteria', 'Medbay', 'Security', 'Upper E', 'Reactor', 'Lower E']
+From  Navigations  to  Upper E  - >  12.55 ['Hall Est', 'Cafeteria', 'Medbay', 'Security', 'Upper E']
+From  Navigations  to  Security  - >  8.36 ['Hall Est', 'Cafeteria', 'Medbay', 'Security']
+From  Navigations  to  Electrical  - >  8.36 ['Hall Est', 'Cafeteria', 'Medbay', 'Electrical']
+From  Navigations  to  Medbay  - >  8.35 ['Hall Est', 'Cafeteria', 'Medbay']
+From  Navigations  to  Storage  - >  7.67 ['Shield', 'NoName South', 'Storage']
+From  Navigations  to  NoName South  - >  3.67 ['Shield', 'NoName South']
+From  Navigations  to  NoName Middle  - >  2.7199999999999998 ['Hall Est', 'NoName Middle']
+From  Navigations  to  Cafeteria  - >  2.7199999999999998 ['Hall Est', 'Cafeteria']
+From  Navigations  to  Shield  - >  0.01 ['Shield']
+From  Navigations  to  O2  - >  5.87 ['Hall Est', 'O2']
+From  Navigations  to  Hall Est  - >  2.71 ['Hall Est']
+From  Navigations  to  Weapons  - >  0.01 ['Weapons']
+
+ From the room  Weapons
+
+
+From  Weapons  to  Lower E  - >  12.579999999999998 ['Navigations', 'Hall Est', 'Cafeteria', 'Medbay', 'Security', 'Upper E', 'Reactor', 'Lower E']
+From  Weapons  to  Upper E  - >  12.559999999999999 ['Navigations', 'Hall Est', 'Cafeteria', 'Medbay', 'Security', 'Upper E']
+From  Weapons  to  Security  - >  8.37 ['Navigations', 'Hall Est', 'Cafeteria', 'Medbay', 'Security']
+From  Weapons  to  Electrical  - >  8.37 ['Navigations', 'Hall Est', 'Cafeteria', 'Medbay', 'Electrical']
+From  Weapons  to  Medbay  - >  8.36 ['Navigations', 'Hall Est', 'Cafeteria', 'Medbay']
+From  Weapons  to  Storage  - >  7.68 ['Navigations', 'Shield', 'NoName South', 'Storage']
+From  Weapons  to  NoName South  - >  3.68 ['Navigations', 'Shield', 'NoName South']
+From  Weapons  to  NoName Middle  - >  2.7299999999999995 ['Navigations', 'Hall Est', 'NoName Middle']
+From  Weapons  to  Cafeteria  - >  2.7299999999999995 ['Navigations', 'Hall Est', 'Cafeteria']
+From  Weapons  to  Shield  - >  0.02 ['Navigations', 'Shield']
+From  Weapons  to  O2  - >  5.88 ['Navigations', 'Hall Est', 'O2']
+From  Weapons  to  Hall Est  - >  2.7199999999999998 ['Navigations', 'Hall Est']
+From  Weapons  to  Navigations  - >  0.01 ['Navigations']
+
+
+Difference time to travel : 
+
+ From the room  Reactor
+Reactor  to  Reactor - > 0
+Reactor  to  Lower E - > 4
+Reactor  to  Upper E - > 4
+Reactor  to  Security - > 0
+Reactor  to  Electrical - > 5
+Reactor  to  Medbay - > 5
+Reactor  to  Storage - > 5
+Reactor  to  NoName South - > 5
+Reactor  to  NoName Middle - > 9
+Reactor  to  Cafeteria - > 5
+Reactor  to  Shield - > 8
+Reactor  to  O2 - > 14
+Reactor  to  Hall Est - > 15
+Reactor  to  Navigations - > 15
+Reactor  to  Weapons - > 7
+
+ From the room  Lower E
+Lower E  to  Reactor - > 4
+Lower E  to  Lower E - > 0
+Lower E  to  Upper E - > 7
+Lower E  to  Security - > 0
+Lower E  to  Electrical - > 1
+Lower E  to  Medbay - > 9
+Lower E  to  Storage - > 0
+Lower E  to  NoName South - > 0
+Lower E  to  NoName Middle - > 4
+Lower E  to  Cafeteria - > 8
+Lower E  to  Shield - > 4
+Lower E  to  O2 - > 11
+Lower E  to  Hall Est - > 12
+Lower E  to  Navigations - > 11
+Lower E  to  Weapons - > 10
+
+ From the room  Upper E
+Upper E  to  Reactor - > 4
+Upper E  to  Lower E - > 7
+Upper E  to  Upper E - > 0
+Upper E  to  Security - > 0
+Upper E  to  Electrical - > 8
+Upper E  to  Medbay - > 1
+Upper E  to  Storage - > 8
+Upper E  to  NoName South - > 8
+Upper E  to  NoName Middle - > 6
+Upper E  to  Cafeteria - > 0
+Upper E  to  Shield - > 12
+Upper E  to  O2 - > 10
+Upper E  to  Hall Est - > 11
+Upper E  to  Navigations - > 11
+Upper E  to  Weapons - > 3
+
+ From the room  Security
+Security  to  Reactor - > 0
+Security  to  Lower E - > 0
+Security  to  Upper E - > 0
+Security  to  Security - > 0
+Security  to  Electrical - > 9
+Security  to  Medbay - > 9
+Security  to  Storage - > 9
+Security  to  NoName South - > 9
+Security  to  NoName Middle - > 13
+Security  to  Cafeteria - > 9
+Security  to  Shield - > 12
+Security  to  O2 - > 19
+Security  to  Hall Est - > 19
+Security  to  Navigations - > 19
+Security  to  Weapons - > 11
+
+ From the room  Electrical
+Electrical  to  Reactor - > 5
+Electrical  to  Lower E - > 1
+Electrical  to  Upper E - > 8
+Electrical  to  Security - > 9
+Electrical  to  Electrical - > 0
+Electrical  to  Medbay - > 17
+Electrical  to  Storage - > 0
+Electrical  to  NoName South - > 0
+Electrical  to  NoName Middle - > 4
+Electrical  to  Cafeteria - > 7
+Electrical  to  Shield - > 3
+Electrical  to  O2 - > 11
+Electrical  to  Hall Est - > 11
+Electrical  to  Navigations - > 11
+Electrical  to  Weapons - > 9
+
+ From the room  Medbay
+Medbay  to  Reactor - > 5
+Medbay  to  Lower E - > 9
+Medbay  to  Upper E - > 1
+Medbay  to  Security - > 9
+Medbay  to  Electrical - > 17
+Medbay  to  Medbay - > 0
+Medbay  to  Storage - > 9
+Medbay  to  NoName South - > 9
+Medbay  to  NoName Middle - > 6
+Medbay  to  Cafeteria - > 0
+Medbay  to  Shield - > 12
+Medbay  to  O2 - > 11
+Medbay  to  Hall Est - > 11
+Medbay  to  Navigations - > 10
+Medbay  to  Weapons - > 3
+
+ From the room  Storage
+Storage  to  Reactor - > 5
+Storage  to  Lower E - > 0
+Storage  to  Upper E - > 8
+Storage  to  Security - > 9
+Storage  to  Electrical - > 0
+Storage  to  Medbay - > 9
+Storage  to  Storage - > 0
+Storage  to  NoName South - > 0
+Storage  to  NoName Middle - > 0
+Storage  to  Cafeteria - > 3
+Storage  to  Shield - > 0
+Storage  to  O2 - > 7
+Storage  to  Hall Est - > 7
+Storage  to  Navigations - > 8
+Storage  to  Weapons - > 6
+
+ From the room  NoName South
+NoName South  to  Reactor - > 5
+NoName South  to  Lower E - > 0
+NoName South  to  Upper E - > 8
+NoName South  to  Security - > 9
+NoName South  to  Electrical - > 0
+NoName South  to  Medbay - > 9
+NoName South  to  Storage - > 0
+NoName South  to  NoName South - > 0
+NoName South  to  NoName Middle - > 2
+NoName South  to  Cafeteria - > 6
+NoName South  to  Shield - > 0
+NoName South  to  O2 - > 2
+NoName South  to  Hall Est - > 2
+NoName South  to  Navigations - > 8
+NoName South  to  Weapons - > 10
+
+ From the room  NoName Middle
+NoName Middle  to  Reactor - > 9
+NoName Middle  to  Lower E - > 4
+NoName Middle  to  Upper E - > 6
+NoName Middle  to  Security - > 13
+NoName Middle  to  Electrical - > 4
+NoName Middle  to  Medbay - > 6
+NoName Middle  to  Storage - > 0
+NoName Middle  to  NoName South - > 2
+NoName Middle  to  NoName Middle - > 0
+NoName Middle  to  Cafeteria - > 5
+NoName Middle  to  Shield - > 10
+NoName Middle  to  O2 - > 16
+NoName Middle  to  Hall Est - > 16
+NoName Middle  to  Navigations - > 17
+NoName Middle  to  Weapons - > 9
+
+ From the room  Cafeteria
+Cafeteria  to  Reactor - > 5
+Cafeteria  to  Lower E - > 8
+Cafeteria  to  Upper E - > 0
+Cafeteria  to  Security - > 9
+Cafeteria  to  Electrical - > 7
+Cafeteria  to  Medbay - > 0
+Cafeteria  to  Storage - > 3
+Cafeteria  to  NoName South - > 6
+Cafeteria  to  NoName Middle - > 5
+Cafeteria  to  Cafeteria - > 0
+Cafeteria  to  Shield - > 13
+Cafeteria  to  O2 - > 10
+Cafeteria  to  Hall Est - > 10
+Cafeteria  to  Navigations - > 11
+Cafeteria  to  Weapons - > 3
+
+ From the room  Shield
+Shield  to  Reactor - > 8
+Shield  to  Lower E - > 4
+Shield  to  Upper E - > 12
+Shield  to  Security - > 12
+Shield  to  Electrical - > 3
+Shield  to  Medbay - > 12
+Shield  to  Storage - > 0
+Shield  to  NoName South - > 0
+Shield  to  NoName Middle - > 10
+Shield  to  Cafeteria - > 13
+Shield  to  Shield - > 0
+Shield  to  O2 - > 2
+Shield  to  Hall Est - > 2
+Shield  to  Navigations - > 7
+Shield  to  Weapons - > 9
+
+ From the room  O2
+O2  to  Reactor - > 14
+O2  to  Lower E - > 11
+O2  to  Upper E - > 10
+O2  to  Security - > 19
+O2  to  Electrical - > 11
+O2  to  Medbay - > 11
+O2  to  Storage - > 7
+O2  to  NoName South - > 2
+O2  to  NoName Middle - > 16
+O2  to  Cafeteria - > 10
+O2  to  Shield - > 2
+O2  to  O2 - > 0
+O2  to  Hall Est - > 0
+O2  to  Navigations - > 0
+O2  to  Weapons - > 3
+
+ From the room  Hall Est
+Hall Est  to  Reactor - > 15
+Hall Est  to  Lower E - > 12
+Hall Est  to  Upper E - > 11
+Hall Est  to  Security - > 19
+Hall Est  to  Electrical - > 11
+Hall Est  to  Medbay - > 11
+Hall Est  to  Storage - > 7
+Hall Est  to  NoName South - > 2
+Hall Est  to  NoName Middle - > 16
+Hall Est  to  Cafeteria - > 10
+Hall Est  to  Shield - > 2
+Hall Est  to  O2 - > 0
+Hall Est  to  Hall Est - > 0
+Hall Est  to  Navigations - > 0
+Hall Est  to  Weapons - > 2
+
+ From the room  Navigations
+Navigations  to  Reactor - > 15
+Navigations  to  Lower E - > 11
+Navigations  to  Upper E - > 11
+Navigations  to  Security - > 19
+Navigations  to  Electrical - > 11
+Navigations  to  Medbay - > 10
+Navigations  to  Storage - > 8
+Navigations  to  NoName South - > 8
+Navigations  to  NoName Middle - > 17
+Navigations  to  Cafeteria - > 11
+Navigations  to  Shield - > 7
+Navigations  to  O2 - > 0
+Navigations  to  Hall Est - > 0
+Navigations  to  Navigations - > 0
+Navigations  to  Weapons - > 7
+
+ From the room  Weapons
+Weapons  to  Reactor - > 7
+Weapons  to  Lower E - > 10
+Weapons  to  Upper E - > 3
+Weapons  to  Security - > 11
+Weapons  to  Electrical - > 9
+Weapons  to  Medbay - > 3
+Weapons  to  Storage - > 6
+Weapons  to  NoName South - > 10
+Weapons  to  NoName Middle - > 9
+Weapons  to  Cafeteria - > 3
+Weapons  to  Shield - > 9
+Weapons  to  O2 - > 3
+Weapons  to  Hall Est - > 2
+Weapons  to  Navigations - > 7
+Weapons  to  Weapons - > 0

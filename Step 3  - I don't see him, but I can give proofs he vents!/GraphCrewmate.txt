@@ -1,0 +1,22 @@
+Reactor	Lower E	4.48
+Reactor	Upper E	4.33
+Reactor	Security	4.52
+Lower E	Upper E	7.56
+Lower E	Security	4.28
+Lower E	Electrical	5.23
+Lower E	Storage	8.85
+Upper E	Security	4.19
+Upper E	Cafeteria	9.86
+Upper E	Medbay	5.62
+Electrical	Storage	4.03
+Medbay	Cafeteria	5.63
+Storage	NoName South	4.00
+Storage	NoName Middle	4.99
+Storage	Cafeteria	8.22
+NoName South	Shield	3.66
+NoName Middle	Cafeteria	5.94
+Cafeteria	Weapons	5.69
+Shield	Hall Est	4.70
+Hall Est	O2	3.16
+Hall Est	Navigations	2.71
+Hall Est	Weapons	4.88
