@@ -6,6 +6,10 @@ In my third year of engenering school, we had to solve Advanced Data Structure p
 
 Computer Sciences Department DIA and IOS 2020-2021.The mini-problem is also available online: https://complex-systems-ai.com/algorithm/adsa-project-among-us/
 
+
+
+![2022-01-27_00-20](images/2022-01-27_00-20.jpeg)
+
 ## *Step 1: To organize the tournament*
 
 Zerator asks you to organize the next “Among Us” tournament for the next ZLAN. The rules are as following:
@@ -66,6 +70,8 @@ Computer Sciences Department DIA and IOS 2020-2021
 
    ## *Step 2: Professor Layton < Guybrush Threepwood < You*
 
+![2022-01-27_00-19](images/2022-01-27_00-19.png)
+
 You’re not only the tournament organizer, you’re also a player. Thus, you must find the best strategies to grab points to climb the ladder.
 
 Most of the time, the two Impostors are among Crewmates. They never walk together. Thus, the information about players which are seen together may help to find the Impostor. After the first kill’s report, the following information presents the players which see each other’s:
@@ -97,6 +103,8 @@ Argue about the question, present the code and display the results.
 
 All the game will be on **this map.**
 
+![2022-01-27_00-19_1](images/2022-01-27_00-19_1.png)
+
 Computer Sciences Department DIA and IOS 2020-2021
 
 Considering that a player (a crewmate) can only walk through the map, but an impostor can also travel with vent, it is important to compute the time to travel between each room for crewmates and impostors.
@@ -119,7 +127,7 @@ Argue about the question, present the code and display the results.
 
 4. Display the interval of time for each pair of room where the traveler is an impostor.
 
-   
+   ![2022-01-27_00-19_2](images/2022-01-27_00-19_2.png)
 
    ## *Step 4: Secure the last tasks*
 
